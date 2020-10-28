@@ -1,7 +1,7 @@
 # Coherent-Voting-Network-for-BC-prognosis
 Support Web Site for the paper "Accurate Prediction of Breast Cancer Survival through Coherent Voting Networks with Gene Expression Profiling"
 
-Directory InputDatFiles contains the train-validate-test data sets for 8 therapy classes.
+Directory InputDataFiles contains the train-validate-test data sets for 8 therapy classes.
 Each file is a tab-separated csv text file.
 The first line holds Metabric patient ID
 The second line holds the survial class (below 60 months, above 72 months)
